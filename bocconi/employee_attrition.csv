@@ -1,8 +1,0 @@
-EmployeeID,Department,EducationField,JobRole,JobSatisfaction,Attrition
-101,Sales,Engineering,Manager,3.0,No
-102,HR,Marketing,Executive,2.0,Yes
-103,IT,Engineering,Developer,,No
-104,HR,Human Resources,,3.0,Yes
-105,Sales,,Manager,5.0,No
-106,,Marketing,Developer,4.0,No
-107,IT,Engineering,Analyst,3.0,Yes
